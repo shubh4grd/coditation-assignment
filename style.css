@@ -111,7 +111,9 @@ div {
   font-size: 20px;
   border-radius: 10px;
   border: none;
-  color: white;
   padding: 8px 8px 8px 20px;
+}
+#label-input{
+  color: #e1e9f0;
 }
 
